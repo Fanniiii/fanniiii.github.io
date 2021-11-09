@@ -1,4 +1,3 @@
-# fanniiii.github.io
 <!DOCTYPE html>
 <html>
 
@@ -127,7 +126,7 @@
       }
     </style>
 
-    <div class="canvas" data-background="file:///Users/fannizhao/Desktop/demo%20copy-01.jpg" data-foreground="file:///Users/fannizhao/Desktop/demo%20copy-02.jpg"></div>
+    <div class="canvas" data-background="http://www.allrightgraphics.com/201804iroha2018.html" data-foreground="http://www.allrightgraphics.com/201704JAGDA.html"></div>
   </center>
 
   <!-- switch-->

@@ -38,8 +38,8 @@
 
   <style id="compiled-css" type="text/css">
     .canvas {
-      width: 1200px;
-      height: 800px;
+      width: 960px;
+      height: 672px;
     }
 
     .cell {

@@ -123,7 +123,7 @@
       }
     </style>
 
-    <div class="canvas" data-background="https://i.postimg.cc/qRJyJqm4/north2.jpg" data-foreground="https://i.postimg.cc/PJf4R2Gb/south.jpg"></div>
+    <div class="canvas" data-background="![Image text]https://github.com/Fanniiii/fanniiii.github.io/blob/main/img-folder/IMG/demo%20copy-01.jpg" data-foreground="![Image text]https://github.com/Fanniiii/fanniiii.github.io/blob/main/img-folder/IMG/demo%20copy-02.jpg"></div>
   </center>
 
   <!-- switch-->

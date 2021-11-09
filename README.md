@@ -1,5 +1,3 @@
-# fanniiii.github.io
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -11,28 +9,6 @@
   <meta name="googlebot" content="noindex, nofollow">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <style>
-    .NORTH,
-    .SOUTH {
-      position: relative;
-    }
-
-    img {
-      position: absolute;
-      top: 20;
-      left: -62%;
-      display: none;
-      width: 120px;
-      height: 80px;
-      border: 1px;
-    }
-
-
-
-    .NORTH:hover>img,
-    .SOUTH:hover>img {
-      display: block;
-    }
   </style>
   <script src="/scripts/snippet-javascript-console.min.js?v=1"></script>
 
@@ -118,13 +94,8 @@
   <center>
 
     <br><h1 style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 25px; text-align:center; font-weight:bold; text-decoration:overline"> IDENTITY </h1><br>
-    <h2 style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:15px; text-align:center; font-weight:lighter; word-spacing:650px"><span class="NORTH">NORTH<img src="https://i.postimg.cc/5NP2WxWT/northk2.gif" alt="Relevant textual alternative to the image" … /></span> <mark>KOREA</mark> <span class="SOUTH">SOUTH<img src="https://i.postimg.cc/hjV6Pwqd/southkr2.gif" alt="Relevant textual alternative to the image" … /></span></h2><br>
+    <h2 style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:15px; text-align:center; font-weight:lighter; word-spacing:650px"><span 
 
-    <style>
-      mark {
-        background-color: white;
-        color: black;
-      }
     </style>
 
     <div class="canvas" data-background="https://i.postimg.cc/qRJyJqm4/north2.jpg" data-foreground="https://i.postimg.cc/PJf4R2Gb/south.jpg"></div>

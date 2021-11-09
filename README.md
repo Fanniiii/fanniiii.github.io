@@ -180,7 +180,7 @@
   var canvas = $('div.canvas');
   var backgroundImage = canvas.data('background');
   var foregroundImage = canvas.data('foreground');
-  var col = 20;
+  var col = 19;
   var row = 14;
   var colWidth = canvas.width() / col;
   var rowHeight = canvas.height() / row;

@@ -18,7 +18,7 @@
       top: 20;
       left: -62%;
       display: none;
-      width: 1100px;
+      width: 1150px;
       height: 800px;
       border: 1px;
     }
@@ -38,7 +38,7 @@
 
   <style id="compiled-css" type="text/css">
     .canvas {
-      width: 1100px;
+      width: 1150px;
       height: 800px;
     }
 

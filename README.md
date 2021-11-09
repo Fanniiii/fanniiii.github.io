@@ -5,7 +5,7 @@
 <head>
   <link rel="icon" type="image/png" href="https://i.postimg.cc/Jhy8tc3m/kr.png">
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <title>UNIFICATION</title>
+  <title>IDENTITY</title>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta name="robots" content="noindex, nofollow">
   <meta name="googlebot" content="noindex, nofollow">
@@ -127,7 +127,7 @@
       }
     </style>
 
-    <div class="canvas" data-background="https://i.postimg.cc/qRJyJqm4/north2.jpg" data-foreground="https://i.postimg.cc/PJf4R2Gb/south.jpg"></div>
+    <div class="canvas" data-background="file:///Users/fannizhao/Desktop/demo%20copy-01.jpg" data-foreground="file:///Users/fannizhao/Desktop/demo%20copy-02.jpg"></div>
   </center>
 
   <!-- switch-->

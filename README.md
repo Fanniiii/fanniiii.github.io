@@ -126,7 +126,7 @@
       }
     </style>
 
-    <div class="canvas" data-background="http://www.allrightgraphics.com/201804iroha2018.html" data-foreground="http://www.allrightgraphics.com/201704JAGDA.html"></div>
+    <div class="canvas" data-background="https://i.postimg.cc/qRJyJqm4/north2.jpg" data-foreground="https://i.postimg.cc/PJf4R2Gb/south.jpg"></div>
   </center>
 
   <!-- switch-->

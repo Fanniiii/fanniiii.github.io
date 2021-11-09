@@ -18,8 +18,8 @@
       top: 20;
       left: -62%;
       display: none;
-      width: 960px;
-      height: 672px;
+      width: 1200px;
+      height: 800px;
       border: 1px;
     }
 
@@ -38,8 +38,8 @@
 
   <style id="compiled-css" type="text/css">
     .canvas {
-      width: 960px;
-      height: 672px;
+      width: 1200px;
+      height: 800px;
     }
 
     .cell {

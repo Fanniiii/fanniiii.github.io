@@ -182,8 +182,8 @@
   var canvas = $('div.canvas');
   var backgroundImage = canvas.data('background');
   var foregroundImage = canvas.data('foreground');
-  var col = 20;
-  var row = 14;
+  var col = 60;
+  var row = 40;
   var colWidth = canvas.width() / col;
   var rowHeight = canvas.height() / row;
   for (var i = 0; i < row; i++) {

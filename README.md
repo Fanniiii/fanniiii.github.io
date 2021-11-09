@@ -18,8 +18,8 @@
       top: 20;
       left: -62%;
       display: none;
-      width: 120px;
-      height: 80px;
+      width: 960px;
+      height: 672px;
       border: 1px;
     }
 

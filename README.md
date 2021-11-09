@@ -123,7 +123,7 @@
       }
     </style>
 
-    <div class="canvas" data-background="https://i.postimg.cc/L5QZDT89/demo-copy-01.jpg" data-foreground="https://i.postimg.cc/tgzJD5BK/demo-copy-02.jpg"></div>
+    <div class="canvas" data-background="https://i.postimg.cc/fW63Jbyp/Untitled-3-01.jpg" data-foreground="https://i.postimg.cc/d01QWMDG/Untitled-3-02.jpg"></div>
   </center>
 
   <!-- switch-->

@@ -10,28 +10,6 @@
   <meta name="googlebot" content="noindex, nofollow">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <style>
-    .NORTH,
-    .SOUTH {
-      position: relative;
-    }
-
-    img {
-      position: absolute;
-      top: 20;
-      left: -62%;
-      display: none;
-      width: 120px;
-      height: 80px;
-      border: 1px;
-    }
-
-
-
-    .NORTH:hover>img,
-    .SOUTH:hover>img {
-      display: block;
-    }
   </style>
   <script src="/scripts/snippet-javascript-console.min.js?v=1"></script>
 
